@@ -2,11 +2,6 @@
 
 namespace ThePackage;
 
-public class Class1
-{
-
-}
-
 public record Foo1(
 	int X,
 	int Y
