@@ -1,0 +1,9 @@
+<Project>
+
+	<PropertyGroup>
+		<UseArtifactsOutput>true</UseArtifactsOutput>
+		<EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
+		<CompilerGeneratedFilesOutputPath>_Generated</CompilerGeneratedFilesOutputPath>
+	</PropertyGroup>
+
+</Project>
